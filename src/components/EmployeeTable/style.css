@@ -1,0 +1,10 @@
+.react-bootstrap-table {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.row.react-bootstrap-table-pagination {
+    width: 80%;
+    margin: auto;
+}
