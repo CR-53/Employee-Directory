@@ -8,3 +8,11 @@
     width: 80%;
     margin: auto;
 }
+
+.react-bootstrap-table>table>thead>tr>th .filter {
+    margin-top: 10px;
+}
+
+.react-bootstrap-table th.sortable {
+    font-size: large;
+}
