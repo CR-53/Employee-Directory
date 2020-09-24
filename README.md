@@ -31,7 +31,7 @@ GPL</br>
 
 
 ## Contribution
-None.
+Currently not open for contributions.
 
 
 ## Tests
