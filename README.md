@@ -3,6 +3,8 @@
 ## Description
 React App that allows users to sort and filter employees in a directory to gain quick access to their information.  
 
+![Example of Generated Readme](public/Assets/employee-directory.png)
+
 
 ![License badge](https://img.shields.io/badge/license-GPL-green)
 
