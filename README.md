@@ -18,7 +18,7 @@ React App that allows users to sort and filter employees in a directory to gain 
 
 
 ## Installation
-None - this app can be viewed live here.
+None - this app can be viewed live here: https://cr-53.github.io/Employee-Directory/
 
 
 ## Usage
