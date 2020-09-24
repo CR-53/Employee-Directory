@@ -1,7 +1,7 @@
 # Employee Directory
 
 ## Description
-React App that allows users to sort and filter employees in a directory to gain quick access to their information.  
+React App that allows users to sort and filter employees in a directory to gain quick access to their information. Employee data was randomly generated using [Mockaroo](https://www.mockaroo.com/)
 
 ![Example of Generated Readme](public/Assets/employee-directory.png)
 
